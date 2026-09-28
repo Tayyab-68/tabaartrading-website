@@ -265,14 +265,6 @@ dl.details dd {
   color: var(--gold-500);
 }
 
-/* Details still to be filled in: remove this block once every placeholder is replaced. */
-.todo {
-  background: #fff3a3;
-  color: #5c4a00;
-  padding: 0 4px;
-  border-radius: 3px;
-}
-
 @media (max-width: 640px) {
   .site-header .wrap {
     flex-direction: column;

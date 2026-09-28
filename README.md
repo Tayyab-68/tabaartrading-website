@@ -6,16 +6,11 @@ address and phone as the documents) and as the privacy-policy URL of the WhatsAp
 
 Separate from the Deduction Bot (`D:\whatsapp-deduction-bot`, served at bot.tabaartrading.com).
 
-## Before publishing
+## Company details on the site
 
-Replace every yellow placeholder (`class="todo"`) in `index.html` and `privacy.html`:
-
-- `[LEGAL COMPANY NAME]`: exactly as on the NTN certificate / utility bill
-- `[STREET ADDRESS, CITY, DISTRICT]`, `[CITY]`
-- `[OFFICE PHONE]`: a number that answers calls (not only the WhatsApp API number)
-- `[e.g. Monday to Saturday, 9:00 to 19:00]`
-
-Then delete the `.todo` block at the end of `styles.css`.
+Tabaar Trading · Main Sheikhupura Road, Shahdara Mor, Lahore · +92 307 2053838 · info@tabaartrading.com ·
+Monday to Saturday, 9:00 am to 5:00 pm · supplier WhatsApp +92 325 9290449.
+These must match the documents used for Meta business verification; change them in `index.html` and `privacy.html`.
 
 ## Hosting: GitHub Pages (free, HTTPS included)
 
